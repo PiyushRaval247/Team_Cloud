@@ -211,11 +211,6 @@ Each top-level item has multiple child pages with detailed information, case stu
 
 This project is licensed under the MIT License.
 
-## 🤝 Support
-
-For support or questions about this project, please contact:
-- Email: info@teemcloud.com
-- Phone: +1 (555) 123-4567
 
 ---
 
