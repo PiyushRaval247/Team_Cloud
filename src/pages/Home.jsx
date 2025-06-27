@@ -83,7 +83,7 @@ const Home = () => {
               </div>
               
               <div className="flex flex-col sm:flex-row gap-4">
-                <Link to="/contact" className="btn-primary text-lg px-8 py-4">
+                <Link to="/contact" className="btn-primary text-lg px-8 py-4 flex items-center">
                   Start Your Project
                   <ArrowRight className="w-5 h-5 ml-2" />
                 </Link>
